@@ -1,0 +1,8 @@
+{
+  "name": "bigtentrecordlabel-com",
+  "private": true,
+  "scripts": {
+    "preview": "npx --yes serve .",
+    "deploy": "npx wrangler@4 pages deploy . --project-name=bigtentrecordlabel-com --branch=main --commit-dirty=true"
+  }
+}
