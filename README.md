@@ -2,3 +2,13 @@
 
 Face: https://bigtentrecordlabel.com  
 Hekmati Brands · Community OS · first clients = the household.
+
+Kristi’s label. Enjoyment first. Independent music. Mark: `assets/btrl-logo-landscape.jpg`.
+
+| | |
+|--|--|
+| **Path** | `C:\Github\public\bigtentrecordlabel.com` |
+| **Pages project** | `bigtentrecordlabel-com` |
+| **Deploy** | Push `main` → Actions. Empty CLOUDFLARE_* → skip green. |
+
+Do not go live until Chief of Staff / John sign off.
