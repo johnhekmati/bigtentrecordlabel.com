@@ -3,7 +3,7 @@
 Face: https://bigtentrecordlabel.com  
 Hekmati Brands · Community OS · first clients = the household.
 
-Kristi’s public face. Mark: `assets/btrl-logo-landscape.jpg`.
+Kristi’s label. Independent music. Mark: `assets/btrl-logo-landscape.jpg`.
 
 | | |
 |--|--|
